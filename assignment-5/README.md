@@ -142,7 +142,7 @@ All actions are recorded on the blockchain, ensuring **transparency and decentra
 ---
 
 ### 4. Final DAO State
-![Final State](screenshots/.png)
+![Final State](screenshots/06.png)
 
 ---
 
